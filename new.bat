@@ -1,2 +1,0 @@
-echo "VISHOK KUMAR"
-echo SAMPATH KUMAR"
